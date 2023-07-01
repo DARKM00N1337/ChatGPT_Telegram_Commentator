@@ -8,6 +8,8 @@ An example of the bot's work.:
 How does it work?
 We write comments in telegram using a user bot, and we create these comments using ChatGPT
 
+
+
 Installing:
 
 ``
@@ -21,6 +23,8 @@ Next, you need to change the data in the .env file:
 After that you need to update the list of channel tags to send messages in line 13:
 
 ![image](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator/assets/49161689/bb721419-ea3b-4b7e-9f54-caa59040e4d5)
+
+
 
 Using:
 

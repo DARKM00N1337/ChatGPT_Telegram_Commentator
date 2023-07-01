@@ -4,6 +4,7 @@ ChatGPT will write comments on your behalf in telegram and do it the fastest.
 An example of the bot's work.:
 ![image_2023-07-01_11-56-09](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator/assets/49161689/41473358-7c01-4f03-b342-15c648f8a6ce)
 
+
 How does it work?
 We write comments in telegram using a user bot, and we create these comments using ChatGPT
 

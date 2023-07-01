@@ -8,6 +8,7 @@ How does it work?
 We write comments in telegram using a user bot, and we create these comments using ChatGPT
 
 Installing:
+
 ``
 pip install -r requirements.txt
 ``
@@ -21,6 +22,7 @@ After that you need to update the list of channel tags to send messages in line 
 ![image](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator/assets/49161689/bb721419-ea3b-4b7e-9f54-caa59040e4d5)
 
 Using:
+
 ``
 python main.py
 ``

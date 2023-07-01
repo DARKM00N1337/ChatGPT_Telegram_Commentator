@@ -13,9 +13,11 @@ pip install -r requirements.txt
 ``
 
 Next, you need to change the data in the .env file:
+
 ![image](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator/assets/49161689/a0f818d8-2fe3-4ded-ab58-7dd5cb9c5fa0)
 
 After that you need to update the list of channel tags to send messages in line 13:
+
 ![image](https://github.com/DARKM00N1337/ChatGPT_Telegram_Commentator/assets/49161689/bb721419-ea3b-4b7e-9f54-caa59040e4d5)
 
 Using:

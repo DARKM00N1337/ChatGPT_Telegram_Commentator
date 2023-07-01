@@ -1,0 +1,4 @@
+OpenAI_token=your token
+Api_id=your api id, get it on my.telegram.org/apps
+Api_hash=your api hash, get it on my.telegram.org/apps
+Owner_id=@your_telegram_tag(where will your bot account send logs to)
